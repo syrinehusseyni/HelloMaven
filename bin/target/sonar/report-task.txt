@@ -1,0 +1,6 @@
+projectKey=Calcul
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=Calcul
+ceTaskId=b8ef4517-d0f0-4164-b8e2-7010fe49a5d7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b8ef4517-d0f0-4164-b8e2-7010fe49a5d7
